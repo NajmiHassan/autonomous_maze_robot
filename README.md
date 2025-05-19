@@ -8,7 +8,7 @@
 
 A* Pathfinding Visualizer is an interactive web application that demonstrates how the A* algorithm searches for the optimal path between two points while avoiding obstacles. This educational tool allows users to create custom maze scenarios and visualize the algorithm's decision-making process in real time.
 
-![Screenshot of A* Pathfinding Visualizer](https://via.placeholder.com/800x400?text=A*+Pathfinding+Visualizer)
+![alt text](image.png)
 
 ## ✨ Features
 
