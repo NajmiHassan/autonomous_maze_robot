@@ -93,10 +93,6 @@ It's an excellent tool for:
 - **Algorithm**: Pure Python implementation of A* with animation capabilities
 - **Canvas Interaction**: Leverages streamlit-drawable-canvas for mouse input
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - Inspired by various pathfinding visualizers that help make complex algorithms accessible
