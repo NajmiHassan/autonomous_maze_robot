@@ -47,7 +47,7 @@ A* always expands the node with the lowest F-score, ensuring it finds the optima
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/astar-pathfinding-visualizer.git
-   cd astar-pathfinding-visualizer
+   cd astar_streamlit_app
    ```
 
 2. Install required packages:
